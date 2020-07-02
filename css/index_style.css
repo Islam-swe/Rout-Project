@@ -498,4 +498,10 @@ footer .to-top
     {
        text-align: center;
     }
+    .navbar
+    {
+        background-color: gray !important;
+        color: black !important;
+    }
+    
 }
