@@ -491,7 +491,7 @@ footer .to-top
     font-weight:700;
 }
 
-@media (min-width:300px) and (max-width:800px)
+@media (max-width:500px) 
 {
   
     .footer-copyright .copyright, .socilmedia
@@ -503,5 +503,9 @@ footer .to-top
         background-color: gray !important;
         color: black !important;
     }
-    
+    nav i  
+    {
+        
+        display: none !important;
+    }
 }
